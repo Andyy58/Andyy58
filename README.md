@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Andyy58
+- 👀 I’m interested in programming and video game design
+- 🌱 I’m currently learning C++, Unreal Engine 4, Python, Blender
